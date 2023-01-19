@@ -81,9 +81,17 @@
 
 #### **2.3.1 笔记附件归类**
 
-1.在文件选项按钮中创建Inbox/attchment文件夹
+**1.在文件选项按钮中创建Inbox/attchment文件夹**
+
+**2.Ctrl + ，快捷键 设置新建笔记的存放位置，选择指定的附件文件夹选项并且在下方选择Inbox文件夹**
+
+**3.这样新建的笔记文件无论多少都会出现在Inbox文件夹中**
+
+**4.笔记附件的图片文件夹attchment也是按照如上操作**
 
 <img src="Obsidian教程笔记.assets/image-20230119214123595.png" alt="image-20230119214123595" style="zoom: 33%;" />
+
+<img src="Obsidian教程笔记.assets/image-20230119214618499.png" alt="image-20230119214618499" style="zoom:33%;" />
 
 <img src="Obsidian教程笔记.assets/image-20230119214215444.png" alt="image-20230119214215444" style="zoom:33%;" />
 
